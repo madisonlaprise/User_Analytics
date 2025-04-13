@@ -13,11 +13,10 @@ This project explores user behavior and job role distribution across a U.S.-base
 - **Calculated and visualized premium conversion rates** within 24 hours of signup across states & roles
 - **Exported interactive HTML dashboards** for easy exploration and sharing
 
----
 
 ![Choropleth Map](assets/User_Analytics_Cover.png)
 
-![Bar Chart](assets/barchart.png)
+
 
 ## 💻 Tools & Libraries
 
@@ -26,6 +25,6 @@ This project explores user behavior and job role distribution across a U.S.-base
 - `datetime`, `timedelta` — Time delta calculations for user behavior modeling  
 - Jupyter Notebook for analysis and HTML export
 
----
+![Bar Chart](assets/barchart.png)
 
 
