@@ -8,7 +8,7 @@ This project explores user behavior and job role distribution across a U.S.-base
 
 ## 🔍 Project Highlights
 
-- **Identified the most common job title in each U.S. state**
+- **Identified the most common job title among members in each U.S. state**
 - **Mapped distribution of tech and project management roles** using choropleth visualizations
 - **Calculated and visualized premium conversion rates** within 24 hours of signup across states & roles
 - **Exported interactive HTML dashboards** for easy exploration and sharing
@@ -17,6 +17,7 @@ This project explores user behavior and job role distribution across a U.S.-base
 
 ![Choropleth Map](assets/User_Analytics_Cover.png)
 
+![Bar Chart](assets/barchart.png)
 
 ## 💻 Tools & Libraries
 
